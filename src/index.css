@@ -1,0 +1,35 @@
+
+.card {
+  width: 15rem;
+}
+.cardimg {
+  width: 200px;
+  height: 300px;
+  margin: 0 auto;
+}
+.singleImg {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+}
+.singleCard {
+  width: 420px;
+  border: 1px solid grey;
+}
+.sipder {
+  display: grid;
+  place-content: center;
+  transform: translateY(300px);  
+}
+
+.boxs{
+  width: 322px;
+height: 55px;
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+.detail{
+  display: grid;
+  place-content: center;
+}
